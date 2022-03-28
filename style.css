@@ -65,9 +65,10 @@ header{
     border: 1px solid white;
 }
 
-
-
-
+.cg-star svg{
+    margin: 20px;
+    width: 20px;
+}
 
 /* DEBUG */
 

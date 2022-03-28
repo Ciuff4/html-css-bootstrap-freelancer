@@ -39,16 +39,30 @@ header{
     font-weight: bold;
     font-size: 19px;
 }
-.navbar-toggler-icon{
-    color: white;
+
+.hamburger svg{
+    width: 45px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 3px;
 }
 
 /* JUMBOTRON */
 
 .jumbotron{
-    height: 400px;
     align-items: center;
     justify-content: center;
+    padding: 30px 0;
+    background-color: #1ABC9C;
+}
+
+.jumbotron img{
+    width: 200px;
+}
+
+.cg-star div{
+    width: 90px;
+    border: 1px solid white;
 }
 
 

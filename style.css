@@ -22,7 +22,23 @@ a {
 
 .title-section{
     text-align: center;
+    color: #333333;
 }
+
+.cg-star div{
+    border: 1px solid #333333;
+    width: 90px;
+}
+
+.cg-star-bg-green div{
+    border: 1px solid white;
+}
+
+.cg-star svg{
+    margin: 20px;
+    width: 20px;
+}
+
 /* HEADER */
 
 header{
@@ -60,14 +76,15 @@ header{
     width: 200px;
 }
 
-.cg-star div{
-    width: 90px;
-    border: 1px solid white;
-}
 
-.cg-star svg{
-    margin: 20px;
-    width: 20px;
+/* PORTFOLIO */
+
+
+
+.card{
+    overflow: hidden;
+    border-radius: 10px;
+    border: none;
 }
 
 /* DEBUG */

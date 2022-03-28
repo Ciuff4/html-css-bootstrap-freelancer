@@ -1,6 +1,22 @@
+/* GENERAL */
+body{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
 
+ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* UTILS */
 .cg_container{
-    width: 50%;
+    width: 80%;
     height: 80%;
 }
 
@@ -11,6 +27,20 @@
 
 header{
     height: 60px;
+    background-color: #2C3E50;
+}
+
+.cg-col-left,
+.cg-col-right{
+    line-height: 60px;
+}
+
+.cg-nav-start{
+    font-weight: bold;
+    font-size: 19px;
+}
+.navbar-toggler-icon{
+    color: white;
 }
 
 /* JUMBOTRON */

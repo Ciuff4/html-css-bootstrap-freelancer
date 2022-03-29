@@ -144,6 +144,12 @@ form .cg-btn-form{
     color: #1CBB9C;
 }
 
+/* FOOTER-BOTTOM */
+
+.footer-bottom{
+    background-color: #2C3E50;
+}
+
 /* DEBUG */
 
 .bug{

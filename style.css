@@ -126,6 +126,24 @@ form .cg-btn-form{
     color: white;
 }
 
+/* FOOTER-TOP */
+
+.footer-top{
+    background-color: #3A546D;
+}
+
+.social{
+    width: 45px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer-top .gc-col-right p span{
+    color: #1CBB9C;
+}
+
 /* DEBUG */
 
 .bug{

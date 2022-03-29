@@ -84,12 +84,20 @@ header{
 
 /* PORTFOLIO */
 
-
-
 .card{
     overflow: hidden;
     border-radius: 10px;
     border: none;
+}
+
+/* ABOUT */
+
+#about{
+    background-color: #1ABC9C;
+}
+
+.title-section-green{
+    color: white;
 }
 
 /* DEBUG */

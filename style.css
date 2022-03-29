@@ -166,25 +166,3 @@ form .cg-btn-form{
 .footer-bottom{
     background-color: #2C3E50;
 }
-
-/* DEBUG */
-
-.bug{
-    background-color: rgba(255, 0, 0, 0.5);
-}
-
-.h_400{
-    height: 400px;
-}
-
-.h_300{
-    height: 300px;
-}
-
-.h_200{
-    height: 200px;
-}
-
-.h_100{
-    height: 100px;
-}

@@ -85,11 +85,28 @@ header{
 /* PORTFOLIO */
 
 .card{
+    position: relative;
     overflow: hidden;
     border-radius: 10px;
     border: none;
 }
 
+.overlay{
+    position: absolute;
+    background-color:#1abc9c77;
+    height: 100%;
+    width: 100%;
+    display: none;
+    }
+
+.card:hover .overlay{
+display:inline-block;
+display: flex;
+}
+
+.fa-plus{
+    font-size: 70px;
+}
 /* ABOUT */
 
 #about{
